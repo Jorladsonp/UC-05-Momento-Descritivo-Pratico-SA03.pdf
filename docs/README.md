@@ -92,9 +92,9 @@ Arquivos na pasta `evidencias/`:
 
 - No arquivo `prints.docx` possuem prints com as evidências das operações realizadas:
 
-- `execucao_app_01.png` – execução no console mostrando cadastro, mudança de status e listagem.
-- `execucao_testes_01.png` – execução da suite de testes (16 testes passando, resultado VERDE).
-- `execucao_testes_02.png` – detalhe do teste `T10 – devePercorrerTransicaoCompleta` cobrindo transição completa de status.
+- `prints-app.docx` – execução no console mostrando cadastro, mudança de status e listagem.
+- `prints-teste-01.docx` – execução da suite de testes (16 testes passando, resultado VERDE).
+- `prints-teste-02.docx` – detalhe do teste `T10 – devePercorrerTransicaoCompleta` cobrindo transição completa de status.
 
 ## 9. Referências
 
